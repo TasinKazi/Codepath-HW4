@@ -7,7 +7,7 @@ Users can create new flashcards right from the app. Whenever you want to study s
 
 ### App Walk-though
 
-<img src="https://recordit.co/UeNSfJIhGY" width=200><br>
+<img src="http://g.recordit.co/UeNSfJIhGY.gif" width=200><br>
 
 
 Features:
